@@ -1,6 +1,6 @@
 # Pick a card
 
-A simple program for choosing a random card. Written in [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language))
+A simple console program for choosing a random card. Written in [Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language))
 
 #### How to run pick_a_card:
 1. Download and install [ruby](https://www.ruby-lang.org/en/downloads/)
