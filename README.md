@@ -6,15 +6,15 @@ A simple console program for choosing a random card. Written in [Ruby](https://e
 
 Clone repo
 ```
-git clone git@github.com:phobco/pick-a-card.git
+$ git clone git@github.com:phobco/pick-a-card.git
 ```
 
 Enter the folder
 ```
-cd pick-a-card/
+$ cd pick-a-card/
 ```
 
 Run
 ```
-ruby pick_a_card.rb
+$ ruby pick_a_card.rb
 ```
